@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "main_one-dollar-bill-template-front.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
